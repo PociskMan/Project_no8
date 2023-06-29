@@ -1,0 +1,96 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2023-06-29, 00:18:34
+    Author     : student
+*/
+
+#top
+{
+    height: 18vh;
+    width: 100vw;
+    background-color: #403935;
+    color: #E5D2C5;
+    font-size: 3vh;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 2vh;
+}
+
+body
+{
+    background-color: #D6A73A;
+    height: 100vh;
+    width: 100vw;
+    color: #403935;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    appearance: none;
+}
+
+#upload
+{
+    border: 0.5vw ridge #403935;
+    width: 40vw;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1vw;
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+}
+
+form
+{
+    margin: 0;
+}
+
+input
+{
+    width: 20vw;
+    height: 4vh;
+    background-color: #E5D2C5;
+    color: #403935;
+    border: 0.3vh solid #403935;
+    margin: 0.3vh;
+    font-size: 2vh;
+}
+
+table
+{
+    text-align: center;
+    margin: auto;
+}
+
+td
+{
+    border: 0.5vh solid #403935;
+    background-color: #F1BC42;
+    width: 15vw;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0.5vw;
+    padding: 1vw;
+}
+
+audio
+{
+    height: 4vh;
+    margin: 1vh;
+}
+
+button
+{
+    width: 10vw;
+    height: 4vh;
+    background-color: #E5D2C5;
+    color: red;
+    border: 0.3vh solid #403935;
+    margin: 0.5vh;
+    font-size: 2vh;
+}
